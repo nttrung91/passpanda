@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trung Nguyen</title>
-    <description>UI/UX by day. Developer by night</description>
+    <title>Passpanda</title>
+    <description>One Pass. Thousands of Classes</description>
     <link>//</link>
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jun 2015 13:59:09 -0700</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2015 13:59:09 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2015 14:06:35 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 14:06:35 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>
