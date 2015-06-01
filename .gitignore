@@ -1,0 +1,12 @@
+.sass-cache
+*.sketch
+.DS_Store
+node_modules
+bower_components
+config.rb
+Gemfile
+Gemfile.lock
+Gruntfile.js
+hologram_config.yml
+package.json
+scss
