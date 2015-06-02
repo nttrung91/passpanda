@@ -919,7 +919,7 @@ window.ParsleyConfig.i18n = window.ParsleyConfig.i18n || {};
 window.ParsleyConfig.i18n.zh_cn = jQuery.extend(window.ParsleyConfig.i18n.zh_cn || {}, {
   defaultMessage: "不正确的值",
   type: {
-    email:        "请输入一个有效的电子邮箱地址",
+    email:        "請輸入有效的電郵地址",
     url:          "请输入一个有效的链接",
     number:       "请输入正确的数字",
     integer:      "请输入正确的整数",
@@ -927,7 +927,7 @@ window.ParsleyConfig.i18n.zh_cn = jQuery.extend(window.ParsleyConfig.i18n.zh_cn 
     alphanum:     "请输入字母或数字"
   },
   notblank:       "请输入值",
-  required:       "必填项",
+  required:       "請輸入電郵地址",
   pattern:        "格式不正确",
   min:            "输入值请大于或等于 %s",
   max:            "输入值请小于或等于 %s",
