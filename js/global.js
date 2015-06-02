@@ -61,7 +61,7 @@
       var pathName = window.location.pathname;
 
       // Set Validation Message to English if the page is English Version
-      if(pathName.indexOf('_en') > -1) {
+      if(pathName.indexOf('/en/') > -1) {
         window.ParsleyValidator.setLocale('en');
         return;
       }
