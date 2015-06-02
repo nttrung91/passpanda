@@ -73,6 +73,10 @@
  * Site Footer
  ===*/
 
+/*======================================
+ * Language
+ ===*/
+
 /************************\
          Globals
 \************************/
@@ -7190,6 +7194,28 @@ This class usually uses with `.bg-cover` to darken the background image to put m
   .feature {
     height: 900px;
   }
+}
+
+.language_nav {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.language__item {
+  color: #979797;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.language__item +
+.language__item {
+  margin-left: 3px;
+}
+
+.language__item.is-active {
+  color: #119EEA;
 }
 
 /************************\
