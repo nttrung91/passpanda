@@ -6745,6 +6745,12 @@ This class usually uses with `.bg-cover` to darken the background image to put m
   font-size: 0.75rem;
   font-weight: 600;
 }
+@media screen and (min-width: 900px) {
+  .language__item {
+    font-size: 7px;
+    font-size: 0.4375rem;
+  }
+}
 
 .language__item +
 .language__item {
