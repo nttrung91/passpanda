@@ -5277,7 +5277,7 @@ Constrain the width down to `xx pixels` (apply on Big Screen)
 
 @media screen and (min-width: 550px) {
   .layout-constrained--sm {
-    max-width: 650px;
+    max-width: 700px;
     margin: 0 auto;
   }
 }
